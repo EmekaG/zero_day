@@ -1,1 +1,1 @@
-This is my first repository for my vagrant project
+Creating and setting up a git and github account using a virtual box
